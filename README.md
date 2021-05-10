@@ -17,12 +17,12 @@ Review the skills test instructions below and be prepared to demonstrate your sk
 
 # Assessment
 
-1.Determine if student was able to complete the work in any tool they have competency in using.
-2. Determine if student can explain their design and how they built the demo.
-3. Expectation is the student can develop the report, filll any gaps in the requirement, do some design thinking and demonstrate thr running report
-4.Demonstrate that the report enables selects and entering od dat prameters as mentioned for selectively show report for specific period. 
-5.Demonstrate the student can build a SQL db and table with the data provided in google sheet for the reporting.
-6.Demonstrate any additional thinking the student did on showing competency prowes.
+- Determine if student was able to complete the work in any tool they have competency in using.
+- Determine if student can explain their design and how they built the demo.
+- Expectation is the student can develop the report, filll any gaps in the requirement, do some design thinking and demonstrate thr running report
+- Demonstrate that the report enables selects and entering od dat prameters as mentioned for selectively show report for specific period. 
+- Demonstrate the student can build a SQL db and table with the data provided in google sheet for the reporting.
+- Demonstrate any additional thinking the student did on showing competency prowes.
 
 
 # Plus Points+
